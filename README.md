@@ -1,2 +1,2 @@
-# swagger-petstore
+# Swagger Petstore - Updated version 
 Swagger Petstore case study
